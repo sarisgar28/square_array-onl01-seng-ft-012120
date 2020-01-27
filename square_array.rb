@@ -1,3 +1,3 @@
-PRIMARY COLORS = []
-  # your code here
+PRIMARY COLORS = ["red, yellow, blue"]
+  # 
 end
