@@ -1,3 +1,3 @@
-def square_array(array)
+PRIMARY COLORS = []
   # your code here
 end
